@@ -1,0 +1,35 @@
+.form{
+    display: flex;
+    /* justify-content: center; */
+    margin: 30px auto;
+    background-color: rgb(168, 167, 167);
+    width: 700px;  
+    align-items: center;
+    border-radius: 25px;
+    box-shadow: 10px 10px 8px;
+    
+}
+.form_image{
+
+
+}
+.form_inputs{
+    text-align: center;
+}
+.form_inputs input{
+    border: none;
+    height:30px ;
+    width: 250px;
+    margin: 10px;
+    border-radius: 15px;
+    outline: none;
+
+}   
+.form_inputs button{
+    border: none;
+    background-color: midnightblue;
+    color: white;
+    border-radius:10px ;
+    padding: 10px;
+    
+}

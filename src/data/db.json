@@ -1,0 +1,60 @@
+{
+  "favourites": [
+    {
+      "title": "'The Boys'",
+      "genre": "action",
+      "language": " english",
+      "rating": 4.5,
+      "id": 1
+    },
+    {
+      "title": " The Family Man",
+      "genre": "thriller",
+      "language": "'hindi'",
+      "rating": 4,
+      "id": 2
+    },
+    {
+      "title": " 'Malgudi Days'",
+      "genre": "'philosophy'",
+      "language": "'kannada'",
+      "rating": 4.8,
+      "id": 3
+    },
+    {
+      "title": "'The Family Man'",
+      "genre": "'thriller'",
+      "language": "'hindi'",
+      "rating": 4,
+      "id": 4
+    },
+    {
+      "title": "'The Family Man'",
+      "genre": "'thriller'",
+      "language": "'hindi'",
+      "rating": 4,
+      "id": 5
+    },
+    {
+      "title": "coco",
+      "genre": "boy",
+      "language": "english",
+      "rating": "4.5",
+      "id": 6
+    },
+    {
+      "title": "sandyVaishu",
+      "genre": "lovers",
+      "language": "eyes",
+      "rating": "infinate",
+      "id": 7
+    },
+    {
+      "title": "vaishu",
+      "genre": "cutiee",
+      "language": "english",
+      "rating": "5*",
+      "id": 8
+    }
+  ]
+}

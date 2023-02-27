@@ -1,0 +1,14 @@
+.footer{
+    background-color: midnightblue;
+    padding: 20px 0px ;
+    text-align: center;
+}
+.footer ul{
+    padding: 0;
+}
+.desc p{
+    color: beige;
+}
+.footer_logo, .desc{
+    text-align: center;
+}
